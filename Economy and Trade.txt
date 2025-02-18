@@ -1,0 +1,63 @@
+Economy and Trade
+
+Resources
+Resources include all forms of usable Metals (M) and consumable organic Nutrients (N) and measures of production of such used to calculate the industrial and agricultural potential of planets and space cities alike, although there are some small differences between the two. As a general rule, all planets have a resource statistic between 0-100, while Space Cities are largely dependent upon their configurations to determine their stats, they are not bound by a maximum score limit. A planet's overall income is determined by the raw resource stat, plus any external modifiers from structures (including any from any space cities) multiplied by the planet's development score, with any special effects being added last.
+
+Space Cities are slightly different in practice, but largely the same on paper. While they cannot hold a Dev Score by default, certain hubs and wards allow for a small increase in Development, and in such cases they effect the statistics in the same manner. A Space City will add only resources from exploited, non-planet bound resource sources, multiplied by any Dev score if the Space City has any. Every Space City has the capacity to exploit a single resource within its local orbital path, but may expand such operations through certain hub or ward features.
+
+(stat + structures) * dev score + modifiers = income total
+
+Nutrients
+A blanket term representing the basic combination of organic compounds used to fuel organic and bio-mechanical systems. Because of the broad nature of the term, not all forms of nutrients are edible by non-hive life, and other factions who lack the Hive's genetic mastery require more specialized resources to maintain infrastructure, as such, Nutrients as a primary resource are used almost exclusively by the Hive, while most other factions contain subcategories of this resource that are managed by civilian economic pressures. A planet's Nutrient score represents its overall capacity for agriculture, both natural and industrial in nature, as well as its overall capacity to produce energy that can readily be utilized in industrial metabolic processes by Hive infrastructure. It is both food, and energy, and represents both farms and power generators that a planet can sustain.
+
+Metals
+The broad and vague term used to describe metallic and inorganic materials used for producing infrastructure, armor, mechanical components, superconductors, weapons, and anything and everything that cannot be made wholly of flesh. Because of its ubiquitous nature, nearly all factions have a use for this resource. A Metal score represents the size and ease of extraction of local metal deposits, regardless of what kind of metal deposits they are, be they iron, lead, gold, copper, or anything else.
+
+Development
+A development score is a planet's overall infrastructure level, determining how effective the local facilities are at exploiting and extracting the present resources. Increasing development consists of spreading vast sprawls of hive creep over and beneath the planet's surface and dedicating vast swaths of land to resource production, refinement, and logistics.
+
+Credits
+A special resource gathered and spent outside of the normal process of industrial and agricultural activity, Credits, or the Energy Credit, is a near-universally accepted currency backed by the Valen unit of measure used to quantify potential energy similar in nature to the Human Newton but derived specifically for the purpose of measuring the value of labor for the purpose of fair compensation. Because any life form can create energy, and in fact does with their own metabolic process, the Credit is not and cannot be controlled by any one administration or faction, and is thus perfect for interstellar trade, and can typically be redeemed on most worlds for watt-hours from local power grids, although the exchange rate is typically dependent on the efficiency of local power systems, and is not a universal constant.
+
+Credits are earned through commercial activity, as local civilian trade is taxed, or by catering to and selling directly to civilian markets with trade exports or tourist industries. Because of this, they require a civilian population at some point to be earned. Local populations will earn Credits over time depending on the Population score of the local region, while Commercial Trade Routes will earn credits based on the population score of the importing location. A planet or space city will not have a base Credit score, but will instead simply earn a credit income based on both semi-random interstellar economic factors, and the local Population's economic activity. As such, the greater the Population score, the greater the Credit income, but the income will never be fully fixed or perfectly predictable.
+
+Population
+Similar in nature to development, as a Dev Score is to metals and nutrients, the Pop score is to Credits. A planet or space city's pop score is not a direct count of its population, or even a relative expression of the size of its population to other population centers, it is instead a generalized representation of the planet or space city's overall economic capacity. A wealthy population of heavy spenders with a debt economy who rent everything will count as a greater pop score than a far larger population of thrifty, impoverished survivalists who have built their own homes. Because of this, planets, despite their many billions of potential residents, are often surprisingly lacking in their Pop score due to the ease with which individuals may strike out on their own and survive on the surface without ever effecting local economic activity, while Space Cities are the opposite, and are highly effective at squeezing a vast amount of economic health from even modest populations. A Pop score cannot be directly increased, but will naturally grow over time up to the local Pop Cap. Certain effects, such as high Agitation, crime rate, poverty, or random events may slow, halt, or even reverse Pop growth. Enemy attacks may also reduce Pop and temporally reduce a location's Pop Cap until urban centers can be repaired. A planet's Population is entirely independent from its Development score, although increased Development may have secondary effects on the local Population's behavior, the Hive does not require civilian workers to maintain its infrastructure, and as such are not involved in building or maintaining local Development, though the population may enjoy the presence of certain services high Development allows, such as mass transport, efficient large scale dwelling facilities, and easy access to local foods and materials.
+
+Tourist Attraction
+A notable location that attracts large numbers of foreign visitors due to some perceived value in viewing or interacting with the attraction, attractions on the surface of a planet can be easily exploited with the construction of local tourist infrastructure, while attractions on uninhabited worlds, gas giants, or space itself require devoted infrastructure in the form of a Space City.
+
+The Pop score of a planet or space city effects its credit income by multiplying all exploited Tourist Attractions with the local Pop score
+
+(Pop * Tourist attractions) + Trade routes
+
+Trade Routes
+Trade routes represent the bulk transportation of large quantities of goods, resources, or equipment at a constant rate by way of commercial freighters, civilian transports, or military convoys. Most commonly they carry valuable goods for sale on distant worlds, but in other cases they carry materials critical to the defense or survival of whole colonies. Standard logistical activity within an empire is a passive effect done by the empire's various private or state owned vessels, but a trade route demands special attention and mention, as it is an organized and deliberately maintained constant exchange of goods, often between different government entities or factions. While trade routes can be established in relative secrecy through black market and smuggling contacts, most are arranged through diplomatic channels or business contracts. There are a range of different trade route options, each offering a special ability, boost to a specific planetary statistic, or even faction exclusive options and benefits.
+
+Strategic Trade Route
+Grants increased local defense
+Grants faction specific buildings or abilities for free while maintained
+A less common option, and typically a sign of close relations, a Strategic Trade Route is a logistical network between factions where one has sent weapons, equipment, or special resources to the destination and maintains them at the location for the receiving location's own defense, allowing the exporting faction to build and maintain the importer's choice of acceptable military structure. Convoys include drones, factor-forms, or trained professionals to build, maintain, and operate the structure, meaning there is no technological exchange involved, and the building will be removed if the route is canceled. If the route is disrupted, the building will slowly deteriorate in its effectiveness until destroyed.
+
+Commercial Trade Route
+Grants Credit Income
+Requires a civilian population on the receiving end
+The most common form of trade route, Commercial trade is the backbone of interstellar commerce, shipping goods from where it is most cheapest and sending it to where it is most expensive. The innate catering to luxury of such routes requires that the planet importing the goods hold a civilian population to serve as the end consumers. Military garrisons, machine life forms, or hive drones are both uninterested in such things and lack the funds to pay for them if they were, and so only a planet or space city with a Population score are valid targets.
+
+Logistics Trade Route
+Lowers entire exporting system resource income by half
+Grants progress to importer's mega-structure projects
+Improves relations with importer
+The mass transport of refined resources and industrial goods allows for local construction projects to be undertaken more quickly. While typical projects on this scale requires at least one such route to be sourced from within the host faction's own space, other factions may offer assistance to either gain goodwill, or to bolster the defenses of an ally in wartime.
+
+Humanitarian Trade Route
+Lowers Agitation over time on importer
+Improves Dev Score over time on importer
+Improves relations over time with importer
+A rather ironic name, given the human propensity towards violence, a Humanitarian route provides freely given assistance in the acceleration of local planetary improvements, assisting in further developing a planet that is otherwise undeveloped due to poverty, war damage, a lack of local labor and resources, or some combination. Local civilian quality of life dramatically increases, as does local public opinion of the exporter. The higher the development score of the importing planet is, the slower the progress to further develop it will become. A planet can only increase to a dev score of 60 through such humanitarian aid, however the agitation and relation effects will remain. A small agitation and relation penalty is applied when the route is canceled. The longer the route was in place, the greater the penalty will be as the locals slowly become more and more complacent, eventually growing to expect the imported assistance, and will resent its absence.
+
+Industrial Trade Route
+Allows remote exploitation of resource site
+Grants resource owner a portion of resource value
+Grants credit income
+Not all civilizations have the means or the desire to exploit certain resources, and some resources are worth more to some than others. In such cases, it is not uncommon for a faction that holds little to no value in some resource to allow another faction to exploit local deposits within their space. Such arrangements allows the host empire to gain resources without the need to build and maintain extraction facilities within their space, and instead simply sit back and watch the wealth pour in as others toil for them. This Route requires the presence of a Mega-corporation HQ to serve as the exporter, and the faction owning the local space has little to no control over the destinations the route exports to, but will gain a regular income of resources and credits from allowing the route to continue.

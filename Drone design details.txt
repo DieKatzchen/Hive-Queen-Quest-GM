@@ -1,0 +1,705 @@
+I will try to keep this updated as frequently as possible. If you think you see an error or a discrepancy please let me know.
+
+Worker
+Olfactory: Basic 0
+Acoustic: Medium 1
+Psionic: Basic 0
+Mandible: Construction 1
+Blade: Tool 1
+Arms: Dex 1
+Legs: Endurance 1
+Carapace: Basic 0
+Size: Medium
+Cost: 5N
+Upkeep: 2N
+The backbone of any hive, the worker is capable of toiling away happily in your service without rest, endlessly striving to serve the hive’s every need. They are your hands, working in your name without rest. They can use simplified echolocation to work even in areas of total darkness, such as the deepest reaches of your hive.
+
+Variant: Haz-mat worker
+Filter Lungs 4
+Cost: 9N
+Upkeep: 4N
+With the addition of a set of filter lungs, these altered workers are capable of surviving all manner of biological hazards. They are immune to air-borne toxins and are resistant to radiation, making them an excellent choice for the repair of sensitive ship systems, containing outbreaks, scouting dangerous environments and other such hazardous tasks.
+
+Variant: Radiator worker
+Radiator tubes 4
+Cost: 9N
+Upkeep: 4N
+With the addition of heat regulating radiator tubes in the carapace, these workers are capable of withstanding incredible temperatures that would quickly kill any normal drone. The increased heat tolerance grants a resistance to fire and other heat based weapons, as well as the added bonus of more effectively matching the ambient temperature, making the drone somewhat more difficult to detect with thermal imaging.
+
+Variant: Aquatic worker
+Gills: 4N
+Cost: 9N
+Upkeep: 4N
+These workers are capable of breathing water, allowing them to work in aquatic environments without the need for extensive support infrastructure.
+
+Warrior
+Olfactory: Basic 0
+Acoustic: Basic 0
+Radio: Basic 1
+Psionic: Basic 0
+Mandibles: Combat 1
+Blade: Combat 1
+Arms: Str 1
+Legs: Sprint 1
+Wings: Moderate 2
+Carapace: Combat 3N 10M
+Size: Medium
+Cost: 10N 10M
+Upkeep: 5N
+The warriors are your claws, protecting the hive from any threat that may surface. They are more than willing to lay down their lives, charging headfirst into any situation they may face, no matter how suicidal. They can detect basic radiation levels, which can be used to determine radiation hazards, or the presence of intelligent life, as many of the life forms you have met have shown to use radio to a great extent, although they lack the attunement to intercept or decipher such transmissions.
+
+Variant: Aquatic warrior
+Gills: 4N
+Cost: 14N 10M
+Upkeep: 7N
+This warrior is capable of breathing water, making well suitable for aquatic combat and underwater activity.
+
+Hydrodynamic warriors
+Sight: Basic 0
+Olfactory: Basic 0
+Acoustic: Advanced 2N
+Electrical: Moderate2N
+Psionic: Basic 0
+Mandible: Combat 1N
+Arms: Strength 1N
+Blade: Combat 1N
+Legs: Sprint 1N
+Carapace: Reactive 4N 15M
+Chassis: Hydrodynamic 2N 5M
+Utility: Gills 4N
+Utility: Acid glands 1N
+Size: Medium
+Cost: 19N 20M
+This adapted warrior is built to serve the hive's underwater locations. It has senses better suited to navigating the dark depths of oceans and is capable of rapid swim speeds.
+
+Thinker
+The Thinker is a specialty drone that has been a mainstay of hives for millennia. They are capable of astounding mental calculations, data storage, and logistical management and are one of the few drones capable of operating outside of the Queen’s control for a limited time. If separated from the hive, a Thinker will use whatever resources it has available to return to the queen as soon as possible. If tasked with a mission, it will focus on completing its objective before attempting to return.
+Cost: 6N
+Upkeep: 3N
+
+Variant: Quantum Thinker
+Quantum Brain 4
+Cost: 10N
+Upkeep: 5
+This thinker is by far one of the most unique resources of your hive. With the addition of a secondary brain that makes use of quantum computing this drone is not just capable of the incredible calculations of its mundane brethren, but also a more randomized worldview. While your thinkers are each an identical organic computer, each quantum thinker is a separate entity that processes data in different ways, assembling input in ways that would seem absurd or illogical at first, guided more by intuition, guesswork, and curiosity. While still bound by your guiding will these drones are as close to individuals as their biology allows. They will often make their own tasks and goals when left to their own devices, although more often than not such idle work tends to descend into endless debate amongst each other, as each one processes the world in a slightly different way. If you have five quantum thinkers, there will be at least five proposed solutions to any one problem.
+
+Speaker
+Olfactory: Basic 0
+Acoustic: Basic 0
+Psionic: Basic 0
+Mandibles: Vocalizer 2
+Blade: Combat 1
+Arms: Dex 1
+Legs: Endurance 1
+Utility: Acid Glands 1
+Carapace: Mimetic skin 2
+Size: Medium
+Cost: 8N
+Upkeep: 4N
+Your voice to those deaf to your thoughts, the speaker acts as your envoy to visitors and prisoners alike and makes requests and demands on your behalf. While it can defend itself to a limited degree, its main defense mechanism is the acid glands that quickly decompose the body if captured or killed, preventing its study by your enemies.
+
+Sniffer
+Olfactory: Medium 1
+Acoustic: Medium 1
+Radio: Medium 2
+Psionic: Basic 0
+Mandible: None 0
+Blade: None 0
+Arms: Dex 1
+Legs: Sprint 1
+Wings: Medium 2
+Carapace: Basic 0
+Size: Medium
+Cost: 8N
+Upkeep: 4N
+The Sniffer is a delicate balance of cost efficiency and sensory superiority. It offers a balanced set of senses to detect intruders and threats before they can become a serious danger to the hive in a cheap and highly maneuverable drone that is both expendable and easily replaceable. They are your eyes and ears, although new adaptations may soon prove to send the Sniffer into disuse.
+
+Variant: Small Sniffer
+Olfactory: Advanced 2
+Acoustic: Advanced 2
+Radio: Medium 2
+Psionic: Basic 0
+Mandible: None
+Arms: None
+Legs: sprint 1
+Wings: Medium 2
+Carapace: Basic 0
+Radiator Tubes 4
+Size: Small X.25
+Cost: 3N
+Upkeep: 1N
+This modified cousin of the Sniffer improves on the original in every way. It is cheaper, more compact, and more effective. It is much less durable, however, and is entirely incapable of combat, but as an early warning system and territory patrol unit it is unmatched.
+
+Aquatic sniffers
+Olfactory: Advanced 2N
+Acoustic: Advanced 2N
+Electrical: Moderate 2N
+Legs: Sprint 1N
+Utility: Gills 4N
+Acid Glands 1N
+Chassis: Hydrodynamic 2N 5M
+Size: Small
+Cost: 3N 1M
+Upkeep: 1N
+This adapted small sniffer is intended to rapidly scout and patrol under water locations.
+
+Fly
+Olfactory: Advanced 2
+Acoustic: Advanced 2
+Radio: Advanced 6N 3M
+Electrical: Advanced 3N 2M
+Psionic: Basic 0
+Arms: Dex 1
+Blade: Hypodermic 2
+Tail (Hypodermic) 6
+Legs: Sprint 1
+Wings: Advanced 4
+Carapace: Adaptive Camouflage 8
+Mimetic skin 2
+Radiator tubes 4
+Oxygen recycler 8
+Acid glands 1
+Size: Small X .25
+Cost: 12N 1M
+A literal fly on the wall, this drone can infiltrate and observe in virtually any situation. It is almost impossible to detect or catch, and is more than capable of observing the enemy from under their noses unseen. More than a simple observer, however, it is capable of seeking out soft targets and administering any number of toxins and chemicals via its numerous hypodermic blades, allowing it to stealthily collect samples from an area, or infect select targets with manufactured pathogens and ailments, making it not only an excellent scout, but also a silent killer.
+
+Digger
+Olfactory: Basic 0
+Acoustic: Advanced 2
+EM: Medium 2
+Psionic: Basic 0
+Mandible: Construction 1
+Blade: Tool 1
+Arms: Str 1
+Legs: Endurance 1
+Carapace: Basic 0
+Size: Medium
+Cost: 8N
+Upkeep: 4N
+The Digger is designed to quickly locate and efficiently retrieve ore deposits. It uses the magnetic field of certain useful metals along with a highly developed sense of echolocation to quickly locate the richest ore veins and promptly unearth them. They possess powerful arms to break through even the densest of stone in short order, and the mandibles to quickly assemble the struts and supports needed to maintain the mine even as they delve ever deeper.
+
+Refinery
+Olfactory: Basic 0
+Acoustic: Basic 0
+Arms: Dex 1
+Legs: Endurance 1
+Utility: Chemical Forge 12
+Size: Medium
+Cost: 14N
+Upkeep: 7N
+The Refinery drone is simply that, a compact mobile ore refinery capable of being easily moved from mine to mine and can process up to 125 Metals each day. It is under great pressure, and will violently explode if damaged, however to defend itself it can vomit the caustic acid of its forge for massive damage.
+
+Wasp
+Olfactory: Basic 0
+Acoustic: Basic 0
+Radio: Medium 2
+Psionic: Basic 0
+Mandible: Combat 1
+Blade: Combat 1
+Arms: Str 1
+Legs: Sprint 1
+Wings: Advanced 4
+Carapace: Basic 0
+Size: Medium
+Cost: 10N
+Upkeep: 5N
+Essentially flying warriors, the Wasp is designed to perform rapid hit and run strikes against the enemy to support more powerful ground forces by striking from above and behind. They are limited in their weaponry to weapons without much recoil and cannot use conventional armor. What they lack in durability they more than make up for in speed, however, and a swarm of Wasps will rarely leave the enemy in good spirits. They can dive from above to perform a high damage melee strike, but are vulnerable while doing so.
+
+Ghost Beetle
+Olfactory: Moderate 1N
+Radio: Moderate 2N
+Acoustic: Advanced 2N
+Electrical: Moderate 2N
+Psionic: Basic
+Mandibles: Combat 1N
+Blade: Combat 1N
+Arms: Strength 1N
+Legs: Sprint 1N
+Flight: Moderate 2N
+Carapace: Combat 3N 10M
+Carapace: Mimetic Skin 2N
+Carapace: Adaptive Camouflage 8N
+Utility: Explosive Glands 2N
+Utility: Radiator Tubes 4N
+Utility: Quantum Brain 4N
+Utility: Hypodermic Tail 7N
+Utility: Oxygen Recycler 8N
+Utility: Honey Pot 4N
+Size: Medium
+Total Cost: 55N 10M
+Upkeep: 27N
+Expensive, but powerful, this stealth and ambush focused drone is capable of autonomous activity in areas outside Hive control. Although no more durable or stronger than a warrior, with its mix of stealth and maneuverability, as well as its intellect this drone can be devastating in even small numbers and excels at assassination, espionage, sabotage, search and destroy, and other similar missions.
+
+Heavy Warrior
+Olfactory: Moderate 1N
+Radio: Moderate 2N
+Acoustic: Moderate 1N
+Electrical: Moderate 2N
+Psionic: Basic
+Mandibles: Combat 1N
+Blade: Sledgehammer 6N 10M
+Arms: Strength 1N
+Legs: Sprint 1N
+Carapace: Conductive 4N 15M
+Carapace: Heavy 5N 20M
+Utility: Oxygen Recycler 8N
+Utility: Tail (Combat) 6N
+Size: Medium
+Total Cost: 38N 45M
+Upkeep: 19N
+This lumbering powerhouse of a drone sacrifices maneuverability for durability and combat prowess. While at a disadvantage in the open due to its slow and heavy design, it is a juggernaut in enclosed spaces, making it the perfect choice for ship boarding actions or internal hive defense.
+
+Parasite
+Mandible: Biological interface 20
+Claw: Hypodermic 2
+Arm: Strength 1
+Acid glands 1
+Quantum brain 4
+Carapace: Adaptive camouflage 8, Mimetic skin 2
+Legs: Sprint 1
+Size: Small
+Cost: 9N
+Upkeep: 4N
+This small drone is soft and physically frail out in the open. It can be inserted into a host body, where it quickly attaches itself to the host’s body and can study or manipulate biological functions. It is very difficult to detect while in a host body, and can administer chemicals and toxins with impunity.
+
+Strafer Drone
+Sight: Basic 0
+Olfactory: Advanced 2N
+Acoustic: Basic 0
+Psionic: Basic 0
+Radio: Moderate 2N
+Mandibles: Combat 1N 
+Blade: Thumper 5N 10M
+Arms: Strength 1N
+Legs: Spring 1N
+Carapace: Basic 0
+Utility: Advanced Wings 4N
+Utility: Seeker Pod 10N
+Standard Weapon: 2X Sting Caster (30M)
+Size: Medium Aerodynamic 4N 10M
+Cost: 30N 20+(30)M
+Upkeep: 15N
+A powerful high performance aerial drone, the strafer is equipped with seekers and thumpers to give it a powerful set of options against ground forces, filling the role of a light bomber. It excels at hunting and harassing enemy positions from the air, and offering covering fire for allied forces. While not as fast as other drones, its wings give it an unparalleled maneuverability, and its light armor makes it quick to evade incoming attacks.
+
+Bomber Drone
+Sight: Basic 0
+Olfactory: Advanced 4N
+Acoustic: Basic 0
+Psionic: Basic 0
+Mandible: Combat 2N
+Blade: Thumper 10N 20M
+Arms: Strength 2N
+Legs: Sprint 2N
+Carapace: Combat 6N 20M
+Utility: Advanced Wings 8N
+Utility: Seeker Pod 20N
+Forward Weapon: Particle Cannon (30M)
+Belly Weapon: Lightning Cannon (30M)
+Gun Ports: Lightning Gun X4 (60M)
+Size: Large Aerodynamic 8N 20M
+Cost: 82N 60+(45-60)M 
+Upkeep: 41N
+A sized up version of the smaller strafer drone, the bomber is capable of far more devastation, obliterating swaths of land bellow as opposed to harassing positions. While its seeker pods and thumpers are capable of attacking positions from afar, its greatest capabilities is that of its powerful lightning cannon. Its highly accurate particle cannon makes for an effective anti-tank weapon, and its more robust armor allows it to manage the damage of incoming fire as it lowers its altitude to perform close range assaults with its many gun ports, spreading chaos bellow as it shorts out machines and obliterates enemy positions.
+
+Air Defense Drone
+Sight: Basic 0
+Olfactory: Basic 0
+Acoustic: Basic 0
+Psionic: Basic 0
+Radio: Moderate 4N
+Mandible: Combat 2N
+Blade: Thumper (Acid) 10N 20M
+Arms: Strength 2N
+Legs: Sprint 2N
+Carapace: Reactive 8N 30M
+Carapace: Conductive 8N 30M
+Utility: Ramjet 32N 12M
+Utility: Radiator Tubes 8N
+Launcher pod: Cruise missiles 80N 200M
+Forward Weapon: Particle Cannon (30M)
+Belly Weapon: Lighting Cannon(30M)
+Size: Large Aerodynamic 8N 20M
+Cost: 164N 312+(60)M
+Upkeep: 74N
+With its highly accurate particle cannon, the devastating but close range lightning cannon, and its mix of thumpers and cruise launchers, this drone is a powerful if expensive general purpose air drone. Intended for high speed interception, it is capable of rapidly responding to any detected craft capable of penetrating the hive's defenses. With the aid of more general purpose interceptors, this drone can quickly intercept and destroy enemy shuttles or drop pod sites, as well as intercept larger craft before they can land.
+
+Light Interceptor Drone
+Sight: Basic 0
+Olfactory: Basic 0
+Acoustic: Basic 0
+Psionic: Basic 0
+Radio: Moderate 2N
+Mandibles: Combat 1N 
+Blade: None
+Arms: Strength 1N
+Legs: Sprint 1N
+Carapace: Basic 0
+Wings: Advanced air superiority 4N
+Utility: Ramjet 16N 6M
+Standard Weapon: 2X Sting Caster (30M)
+Size: Medium Aerodynamic 4N 10M
+Cost: 29N 16+(30)M
+Upkeep: 14N
+Lightly armed and armored, this drone focuses entirely on closing in on enemy craft and quickly engaging. Its speed and maneuverability are phenomenal, but it has no proper armor, and only the most basic of weapons. The Light Interceptor is best used in conjunction with other drones, moving in quickly ahead of more heavy hitters to gather detailed data, measure the strength of the target, and soften enemy units with harassing attacks as the larger drones close in. They have no notable air-to-ground attack capabilities, and are focused entirely on an air superiority role, using their speed, size, and low upkeep cost as their main advantages. They are typically the bulk of any defensive air force, supporting other craft with their numbers and quick response time.
+
+Heavy Interceptor Drone[edit]
+Sight: Basic 0
+Olfactory: Basic 0
+Acoustic: Basic 0
+Psionic: Basic 0
+Radio: Moderate 4N
+Mandible: Combat 2N
+Blade: None
+Arms: None
+Legs: Sprint 2N
+Carapace: Standard
+Utility: Ramjet 32N 12M
+Utility: Radiator Tubes 8N
+Forward Weapon: Particle Cannon (30M)
+Belly Weapon: Rotary Stinger or Lighting Cannon(30M)
+Size: Large Aerodynamic 8N 20M
+Cost: 56N 32+(60)M
+Upkeep: 28N
+The follow through to the Light Interceptor, this basic but capable drone accompanies flights of smaller interceptors to quickly respond to threats to the hive, using their powerful weapons to ensure hive air superiority at all times. Lacking in most senses, they rely on other drones to detect enemies and guide them into range, often using Light Interceptors to close in and identify threats, or being directed using the powerful senses of a dedicated Air Defense drone.
+
+Colossus
+Olfactory: Advanced 2
+Acoustic: Medium 2
+Radio: Medium 2
+Psionic: Basic 0
+Mandible: Combat 1
+Blade: Combat 1
+Arms: Str 1
+Legs: Sprint 1
+Carapace: Heavy 5N 20M
+Size: Large X2 Cost
+Cost: 30N 40M
+Upkeep: 15N
+Essentially a large warrior, the Colossus is a lumbering weapons platform suitable for both long range support and front line assaults. The graft hard point on its back can be used to deploy a Thorn cannon for artillery, a Rotary Stinger for Anti-Air, or any other potential tasks, while the head mounted hard point can be used for all manner of close range weapons, such as a rotary for anti-personnel and suppression, or a Plasma Spray for area denial and clearing out enemy cover. It is capable of short bursts of surprising speed, but is otherwise incredibly slow. Its blades, while rarely used, are massive two meter retractable spikes more than capable of puncturing any armor it may come across, and its own armor is thick enough to shrug off all but the most relentless of assaults.
+
+Hovertank
+Sight: Basic 0
+Olfactory: Basic 0
+Acoustic: Moderate 2N
+Psionic: Basic 0
+Radio: Moderate 4N
+Mandibles: Combat 2N
+Blade: Combat 2N
+Arms: Strength 2N
+Legs: Hover 20N 30M
+Carapace: Heavy 10N 40M
+Utility: Radiator Tubes 8N
+Forward Hardpoint: Particle Cannon (30M)
+Dorsal Hardpoint: Particle Cannon or Lighning Cannon (30M)
+Gun Ports: (4x) Thorn Launcher [Acid] (60M)
+Size: Large (X2)
+Cost: 50N 70+(120)M
+Upkeep: 25N
+This heavy duty drone offers a well-rounded mixture of durability and maneuverability, as well as excellent firepower. Somewhat similar in nature to human tanks, this drone is best suited in an anti-armor capacity, seeking and destroying enemy vehicles and armored units with the support of smaller drones, although its gun ports do offer an acceptable deterrent against infantry attack.
+
+Excavator
+Olfactory: Basic 0
+Acoustic: Medium 1
+EM: Moderate 2
+Psionic: Basic 0
+Mandible: Construction 1
+Blade: Tool 1
+Arm: Str 1
+Legs: Endurance 1
+Utility: Chemical Forge 12
+Carapace: Basic
+Size: Large
+Cost: 38N
+Upkeep: 19N
+The Excavator is essentially a cross between a worker, a digger, and a refinery scaled up to massive size. It can refine up to 250 Metals per day, and rapidly construct massive tunnels and caverns for large construction projects that must be done quickly. It is not harmless if attacked, as the forge can be used to spew a violently burning napalm-like substance that does massive chemical damage to anything it touches, and if killed will explode in a violent burst of chemical acid.
+
+Harvester
+Sight: Basic 0
+Olfactory: Basic 0
+Acoustic: Medium 1
+Psionic: Basic 0
+Mandible: Construction 1
+Blade: Hypodermic 2N
+Arms: Dex 1
+Legs: Hover 10N 15M
+Carapace: Basic 0
+Carapace: Peacock (Film Camo)0
+Utility: Honey Pot 4N
+Size: Large
+Cost: 38N 30M
+Upkeep: 19N
+This large hovering drone uses its massive blades like a set of straws to quickly extract the juices from the deadly ocean film as it floats over the surface of Leeland's membrane covered oceans. It is adapted match the coloration of the spores around it, allowing it to hide from aerial predators within the dense cloud of toxic spores its powerful hoverpad kicks up. With its large carrying capacity granted from its honey pot, it is capable of journeying far away from shore and for extended periods of time before unloading its harvest at the hive, bringing in an average of 500N per day on the surface of Leeland.
+
+Chinook Drone
+Sight: Basic 0
+Olfactory: Basic 0
+Acoustic: Basic 0
+Psionic: Basic 0
+Radio: Moderate 4N
+Mandible: Combat 2N
+Blade: None
+Arms: Strength 2N
+Legs: Endurance 2N
+Carapace: Basic 0 
+Utility: Rotary 10N
+Utility: Honey Pot 8N
+Forward Weapon: Rotary Stinger (30M)
+Belly Weapon: Plasma Spray (30M)
+Size: Large Aerodynamic 8N 20M
+Cost: 36N 20+(60)M
+Upkeep: 18N
+A purpose built transport and close support craft, this drone is capable of carrying a supply of medium drones, carrying a single large drone with its arms, as well as assisting ground forces from the skies via its powerful rotary stinger and belly mounted plasma spray. Its senses and armor are less then exceptional, making it most effective in a strictly support and logistical role, moving drones in and out of combat while avoiding directly conflict itself and using its weapons to clear landing zones.
+
+Support Fluttercraft
+Chassis: Aerodynamic 4N10M
+Olfactory: Moderate 1N
+Radio: Advanced 6N3M
+Acoustic: Advanced 2N
+Psionic: Basic
+Mandibles: Speaker 2N
+Wings: Advanced X2 8N
+Blade: Thumber 5N10M
+Arms: Strength 1N
+Legs: Hover 10N15M
+Carapace: Combat 3N10M
+Carapace: Adaptive Camouflage 8N
+Carapace: Mimetic Skin 2N
+Utility: Ramjetx2 32N12M
+Utility: Swarm Missiles 10N40M 
+Utility: Stinger Missiles 20N50M
+Utility: Radiator Tubes 4N
+Utility: Seeker Pod 10N
+Utility: Seeker Pod 10N
+Utility: Honey Pot 4N
+Size: Large
+Total Cost: 284N 300M
+Upkeep: 142N
+This large drone is designed to rule the sky, patrolling airspace and raining destruction down on any perceived threat it finds. It is capable of carrying medium drones into and out of combat while supporting them from the air with its tremendous firepower at either long or close range. The sound of its screech from above the clouds is not only used to assist in echolocation, but shakes morale as well.
+
+Ships
+
+Shuttle
+Cost: 50N 150M
+Size: 30 Meters
+A slow but powerful transport, the shuttle is the workhorse of your hive’s industrial base.  Its primary use is the transport of goods and drones to and from orbit, although its small size and relatively good maneuverability makes it a good choice for dropping drones into combat. It is unarmed, but well armored with thick layers of metal reinforcing designed to protect whatever valuables it may be carrying. It has no room for an FTL drive, but can quickly move across a star system and can be deployed from larger ships if needed.
+
+Space pod
+Hull: pod 60N 50M
+Stealth field 5N 15M
+Cost: 65N 65M
+Size: 10 Meters
+The space pod is a dedicated stealth vessel. Unarmed and unarmored, it only has room for a basic FTL drive and a suite of sensor equipment. The stealth field fitted to the exterior of the hull and the pods naturally small signature make it almost impossible to detect.
+
+Heavy Fleet Fighter
+Hull: Fighter 50N 50M
+Capacity: None 
+Size: 10 Meters
+Fixed (x2): Plasma Lance 40M
+Armor: Reflex 50N
+Armor: Conductive 15N 50M
+Utility: Defensive Shield 5N 15M
+Total Cost: 135N 175M
+Upkeep: 67N
+The first of the Hive's armed space pod designs known as fighters, this small strike craft is based on a rather alien concept of quality over quantity. Built to go toe to toe with Union craft, this fighter is heavily armed and armored with twin Plasma Lances, layered reflexive and conductive armors, and a defensive shield making it an impressive first strike option against enemy fleets, especially against larger shielded craft where its powerful lances can be used with the greatest effectiveness, thinning the herd before the bulk of your fleet engages in combat.
+Total Cost: 135N 175M
+Upkeep: 67N
+
+Heavy Gunship
+Hull: Gunship 60N 250M
+Capacity: 10/1
+Size: 30 Meters
+Fixed (x1): Ion Cannon 20M
+Auxiliary (x2): Auto-Cannon 20M
+Armor: Heavy 75N 300M
+Missile Cells: Swarm Launcher 100N 50M
+Utility: Defensive Shield 15N 45M
+Cost: 250N 685M
+Upkeep: 125N
+Mining Corvette
+Hull: Corvette 400N 800M
+Stealth field: 50N 150M
+Shuttle Bay 100N 50M
+Standard armor
+Consumption beam
+Turret: None
+Fixed: None
+Aux: None
+Cost: 550N 1000M
+Upkeep: 275N
+Size: 100 Meters
+A combat variant of the shuttle hull, this gunship is armed with weapons capable of disabling or harassing enemy ships, making it suitable for both destroying enemy strike craft, and for harassing larger targets all while equipped with the defenses needed to survive any retaliation, making it an excellent escort for ships that would be vulnerable to strike craft, or for aiding in boarding efforts.
+
+Patrol Corvette
+Hull: Corvette 400N 800M
+Capacity: 200/20
+Size: 100 Meters
+Module Limit: 2
+Spinal Mounts (x1): Linear Particle Beam 100M
+Fixed (x2): Plasma Lance 40M
+Turret (x2): Cyclotron Particle Beam 50M
+Auxiliary (x8): Autocannons (Expl) 80M
+Utility: Cloaking Field 50N 150M
+Utility: Rapid Damage Control 15N 20M
+Module: G-field sensors 150N 200M
+Module: Swarm launcher 400N 200M
+Total Cost: 1015N 1640M
+Upkeep: 507N
+A purpose built ship designed to patrol hive space, it is capable of detecting even cloaked ships, and rapidly responding to such finds with greatly effective force, using a mixture of explosive rounds and clouds of swarm missiles to comb the space around it for the detected cloaked vessel, then moving in for the kill with its powerful lancers and particle beam weapons once found.
+
+Scout Corvette
+Hull: Corvette 400N 800M
+Stealth field 50N 150M
+Rapid damage control 15N 20M
+Standard armor
+Consumption beam
+Turret: Cyclotron 50M
+Fixed: Plasma lance 40M
+Aux: Auto cannon 80M
+Cost:465N  1140M
+Upkeep: 225N
+Size: 100Meters
+While fragile and lacking in ranged combat, the stealth corvette avoids these issues through evasion and agility. It is capable of easily hiding for short periods of time, and if needed, can unleash an unrelenting stream of plasma on an unsuspecting target. Its mixture of high close range damage potential and effective stealth abilities make it an excellent tool for quickly destroying single, isolated targets before they can retaliate, although if caught in a stand up fight it would quickly find itself outmatched. It foregoes a spinal mounted weapon in favor of a consumption beam, which lets it serve as an effective scout, finding and sampling potential resource locations.
+
+Lancer Corvette
+Hull Corvette 400N 800M
+Stealth Field 50N 150M
+Rapid damage control 15N 20M
+Standard armor
+Spinal: Railgun (acid alt ammo) 100M
+Fixed x2: Linear particle beam 40M
+Turret x2: Autocannon 50M
+Point x8: Plasma Lance 80M
+Cost: 465N 1240M
+Effectively a glass cannon, this fast corvette is capable of dealing exceptional damage at almost any range. With its mix of railgun and linear particle beams for long range combat it can project a respectable amount of firepower over a great distance, its autocannons are nothing to scoff at either, and are capable both as a deterrent against small craft and as a fallback weapon against anything that may stray too close. Its greatest weapon is its shortest range option, with a full complement of plasma lances it is capable of unleashing hellfire upon any foe that gets within its grasp. Destruction is the singular purpose with little concern for survivability or damage resistance making the Lancer an excellent choice as a vanguard or first strike option in an attack, as well as a competent bombardment vessel.
+
+Fleet Corvette
+Hull: Corvette 400N 800M
+Stealth field 50N 150M
+Rapid damage control 15N 20M
+Spinal: Linear particle beam 100M
+Fixed: Railgun 40M
+Turret: Cyclotron particle beam 50M
+Aux: Auto Cannon (explosive ammo) 80M
+Armor: Basic
+Cost: 465N 1240M
+Upkeep: 232N
+Size: 100 Meters
+A balanced and well equipped corvette for supporting a larger fleet in a wide range of tactical situations, its weapons are capable of harassing enemy targets, reducing the enemy ships’ combat effectiveness while using its well-equipped autocannons to sweep away incoming strike craft.
+
+Heavy Fleet Corvette
+Hull: Corvette 400N 800M
+Capacity: 200/20
+Size: 100 Meters
+Module Limit: 2
+Spinal Mounts (x1): Railgun 100M
+Turret (x2): Ion Cannon 50M
+Fixed (x2): Cyclotron Particle Beam 40M
+Auxiliary (x8): Autocannons (Expl) 80M
+Armor: Heavy 250N 1000M
+Armor: Ballistic 500N 250M
+Utility: Defensive Shield 50N 150M
+Utility: Rapid Damage Control 15N 20M
+Power: Fusion Core 130N 650M
+Module: Swarm Launcher 400N 200M
+Module: Cruise Launcher 600N 400M
+Total Cost: 2345N 3740M
+Upkeep: 1172N
+A more drastic departure from the maneuverable and evasive ships of the past, this heavy corvette is designed purely for defensive use as a picket force. Slow, expensive, and unable to hide, this ship excels at blocking enemy forces and supporting its capital allies by destroying small targets and hampering large ones, but it is a poor choice for situations that would require speed or grace over brute firepower and durability.
+
+Heavy Fleet Frigate
+Hull: Frigate 800N 1600M
+Capacity: 150/15
+Size: 150 Meters
+Module Limit: 3
+Spinal Mounts (x1): Railgun 150M
+Turret (x6): Cyclotron Particle Beam 150M
+Fixed (x8): Railgun 160M
+Auxiliary (x4): Cyclotron Particle Beam 40M
+Armor: Heavy 325N 1500M
+Armor: Ballistic 750N 375M
+Utility: Defensive Shield 75N 225M
+Utility: Rapid Damage Control 15N 20M
+Power: Fusion Core 190N 950M
+Module: Swarm Launcher 400N 200M
+Module: Stinger Launcher 600N 400M
+Module: Docking Bay 100N 50M
+Total Cost: 2855N 5820M
+Upkeep: 1427N
+Heavily armed and armored, this frigate is designed to operate with its similarly armored heavy fleet counterparts to target and destroy enemy invaders. Using the corvettes to its advantage, this frigate is able to hit weakened ships with heavy firepower while being able to take heavy punishment from attackers, however it is slow and ineffective at pursuing or patrolling, limiting its effective roles to picket defense or main combat situations.
+
+Stealth Frigate
+Hull: Frigate 800N 1600M
+Stealth field: 75N 225M
+Rapid damage control: 22N 30M
+Spinal mount(1): Linear Particle Beam 150M
+Fixed(8): Railgun (acid) 160M
+Turrets(6): Cyclotron 150M
+Auxiliary(4): Autocannon 40M
+An attack ship designed to strike from the shadows, the stealth frigate uses its cloak to place itself in an advantageous position before opening fire with its corrosive railguns, eating away at the enemy armor. It lacks the heavy armor of a front line warship, but its abilities as a harrying raider more than make up for it.
+
+Vanguard Frigate
+Hull: Frigate 800N 1600M
+Armor: Reflex 750N, Conductive 225N 750M
+Stealth field 75N 225M
+Rapid damage control 22N 30M
+Spinal x1: Linear particle beam 150M
+Fixed x8: Plasma lance 160M
+Turret x6: Railgun 150M
+Aux x4: Auto Cannon (explosive ammo) 40M
+Cost: 1872N 3105M
+This powerful warship is designed to use its stealth to end fights before they begin, but has the durability and firepower to take on whatever may survive its initial ambush. As its name implies, it is best suited as the first into combat, serving as the vanguard to a larger fleet by taking out strategic targets first before the rest of the hive fleet reveals itself.
+
+Heavy Cruiser
+Hull: Cruiser 1200N 2000M
+Armor: Heavy 500N 2000M
+Spinal: Linear particle beam 400M
+Fixed: Railgun 200M
+Turret: Cyclotron 150M
+Rapid damage control 30N 40M
+Swarm x1: 600N 300M
+Defensive Shield: 100N 300M
+Cost: 5390M 2430N
+Upkeep: 1215N
+Throwing stealth and caution to the proverbial solar wind, the Heavy Cruiser is designed to bring the pain to any battle, serving as a heavy armed and armored warship at the core of any proper armada.
+
+Heavy Fleet Cruiser
+Hull: Cruiser 1200N 2000M
+Capacity: 300/30
+Size: 200 Meters
+Module Limit: 4
+Spinal Mounts (x2): Railgun 400M
+Turret (x6): Autocannon 150M
+Fixed (x10): Linear Particle Beam 200M
+Armor: Heavy 500N 2000M
+Armor: Ballistic 1000N 500M
+Utility: Defensive Shield 100N 300M
+Utility: Rapid Damage Control 30N 40M
+Power: Fusion Core 180N 900M
+Module: Bulkhead 500M
+Module: Stinger Launcher 400N 200M
+Module: Swarm Hangar (Plasma) 600N 300M
+Module: Swarm Hangar (Autocannon) 600N 300M
+Total Cost: 5010N 6890M
+Upkeep: 2505N
+A fierce companion of the other heavy fleet craft, this cruiser is designed to support its smaller allies with swarm fighters and missiles, using the cover from the rest of the fleet to punch holes in the enemy point defense while hammering away from a distance with its railguns and particle beams, or ripping into targets closer up with its autocannons.
+
+Heavy Fleet Battlecruiser
+Hull: Battlecruiser 2000N 2500M
+Capacity: 400/40
+Size: 300 Meters
+Module Limit: 6
+Spinal Mounts (x3): (Railgun) 900M
+Turret (x8): (Cyclotron Particle Beam) 200M
+Fixed (x16): (Plasma Lance) 320M
+Auxiliary (x10): (Ion Cannon) 200M
+Armor: Heavy 750N 3000M
+Armor: Combat 450N 1800M
+Utility: Defensive Shield 150N 450M
+Utility: Rapid Damage Control 45N 60M
+Utility: Spinal Hangar 10800N 5400M [30 Swarm Hangars, Autocannon]
+Power: Fusion Core 380N 1900M
+Module: (3) Bulkhead 1500M
+Module: (2) Cruise Launcher 1200N 800M
+Module: Stinger Launcher 500N 300M
+Total Cost: 16275N 18930M
+Upkeep: 8137N

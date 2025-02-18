@@ -1,0 +1,191 @@
+Sensory
+
+Sight: Four eyes, two ocular that are locked forward, and two compound. Ocular eyes have excellent resolution and range, but cannot turn in their sockets; compound eyes have excellent night vision and field of view, but have low resolution and can only make out shapes and movement at a distance. (Free, all drones have this by default.)
+Thermal Pits: An array of small sensory gland covered pits is positioned around the head in the form of a large, darkly colored and porous layer of chitin, giving the appearance of being eyeless. The IR sensitive chitin layer replaces the compound eyes and allows it to see in the infrared spectrum. (2N)
+
+Olfactory: Smell chemical traces of objects and creatures. Is best used to track a single, known target.
+Basic: Can smell strong smells at short range, such as rot. (Free, all drones have this by default.)
+Moderate: Can zero in on a single familiar smell at a distance. (1N)
+Advanced: Can detect multiple scents at a distance, and distinguish between them at will. (2N)
+
+Acoustic: sense vibrations in air and ground, and discern direction.
+Basic: Can hear sound in stereo and discern direction to a moderate degree. (Free, all drones have this by default.)
+Moderate: Can use vibrations to detect distance and location of objects, and detect obstacles. (1N)
+Advanced: Can use echolocation to visualize location, size, and shape of objects at a distance. (2N)
+
+Radio: A hardened set of horn-like antennae that can detect and emit EM radiation.
+Basic: Can determine variety of radiation and general location of source. (1N)
+Moderate: Can use radar to detect range and estimate size of objects at a distance. (2N)
+Advanced: Can detect and interpret data transmitted by EM frequencies at long range. (6N 3M)
+
+Electrical sensitivity: microfibers that can detect electrical currents and the flow of magnetic fields.
+Basic: Can detect the presence of a moderate electrical current. (1N)
+Moderate: Can determine source of electrical current and determine magnetic north. (2N)
+Advanced: Can determine voltage/wattage of electrical current accurately. (3N 2M)
+
+Psionic: Ability to detect and transmit thoughts, emotions, and sensations instantaneously via tachyon transmission.
+Basic: Detect and emit thoughts via tachyon particles. Coverage can cover most of a continent. (free, all drones must have this to be controlled.)
+Moderate: The same variant as the queen. Can receive and transmit thoughts over vast distances. Coverage can cover most planets with ease, and reach into low orbit. Is free for the Queen only. (50N)
+Advanced: A powerful FTL communication system that can beam thoughts to any other advanced relay regardless of distance. (200N 250M)
+
+Psionic disruptor: A set of advanced organs capable of transmitting a powerful psionic static, blocking transmission within its range.
+Basic: Releases a quick burst of static in a radius of 15 meters in all directions lasting for several seconds. (50N)
+Moderate: A powerful organ capable of broadcasting a powerful jamming signal in a 20 meter cone. The drone does not affect itself. (100N 50M)
+Advanced: A large disruptor that broadcasts static with a radius of roughly 50 kilometers. If grafted to an advanced relay, the signal can be made to propagate along the relay’s own network. (250N 150M)
+
+-----
+
+Mandible
+
+Construction: Creates powerful adhesive saliva that can mix with powdered stone to make a cement-like mixture. Slow to close and open, but has incredible crushing power. (1N)
+
+Combat: A melee support weapon that can grapple opponents and slice through armor(1N)
+
+Vocalizer: A small, chitinous beak capable of mimicking verbal speech as used by Humans. (2N)
+
+Siren: A series of directed sonic frequencies and electrical pulses from this large and elaborate looking adaptation causes severe disorientation in most species. The adaptation itself appears as a radar dish mounted on the drone's head to amplify and direct the signal. It effects everything in a 45 degree angle in front of it with a range of 10 meters, and causes nausea, loss of balance, and muscle spasms to most subjects effected, and causes drones to briefly black out momentarily. It does not effect the drone emitting the signal. If equipped to a large drone the range is doubled. Small drones cannot use this adaptation due to size limitations. (15N)
+
+Biological interface: These sets of small spines are similar in function to your computer interface, but with organic life. The interface lets a drone attach itself to other organic beings, be it a drone or alien, and either sustain itself or sustain its host, as well as monitor vital signs and administer chemicals as needed. (20N)
+
+[Additional adaptations can stack with each other and any mandible, but require the drone have some kind of mandible]
+
+Spitter gland: A small gland located beneath or within the mandibles of a drone that allows it to spit gaseous or liquid toxins, allowing it to deliver acidic or biological weapons intended to be inhaled or absorbed through contact. If firing a liquid such as neurotoxin or acid, it can fire a fine misty stream up to a meter away, if firing a gas, it can fill a meter cubed area with a single deployment. The gland requires time to refill its payload between shots, but is undetectable via visual inspection. In most mandibles the glands are located at the roots of each pincer, and are exposed when the mandibles are opened entirely. If added to Vocalizers it is located just within the inside of the beak, on the muscle of the jaw. Range and area of effect is 5 meters for large drones. Small drones can equip this adaptation, but cannot store payloads capable of inflicting lethal injury or major harm on most creatures alone and must be within melee range to deploy effectively. (3N)
+
+Stinger whip: A long, high strength thread is held behind the mandibles like a tongue, allowing it to be aimed easily and fired quickly. When fired, it unravels at once and stretches to a length of three meters for medium drones, or ten meters for large drones, and can pull up to two tons before breaking, although it can be cut or torn easily by other forces. Coating the whip is a layer of millions of tiny barbs that trigger on contact. The whip will attempt to wrap around anything it hits, and if the barbs are able to pierce the object, it will stick to it by anchoring the barbs within it, and inject any applicable bioweapon. Once deployed, the drone can reel in the whip, or detach it if needed. A detached whip will continue to wrap around and sting any applicable target that it comes into contact with for several hours, before dissolving. (5N)
+
+-----
+
+Tool/weapon
+
+Tool: A multi-purpose blade that can be used to plow soil, mold hive stone, or cut through vegetation. (1N)
+
+Combat: Long, sharp and slightly curved blades capable of slicing and piercing enemies in melee combat. The blades contain micromuscles capable of vibrating the edge of the blade at high frequencies that allow the blade to saw through armor in a manner similar to a jackhammer, and lines of conductive material run along the cutting edge, allowing the blade to melt or soften the target material. The result is an incredibly potent melee weapon capable of slicing through most forms of armor with incredible ease. (1N)
+
+Photonic Projector: A hardlight projector mounted on the drone's arm in place of a blade, the projector is designed for rugged combat situations and thus lacks the definition of haptic holograms or hardlight furnishings of hive structures, and is limited to creating very crudely shaped simple constructs. These constructs, practically speaking, are limited in function to that of a defensive shield, or an offensive Photon Blade. While the blade is less effective than a standard combat blade, the added benefit of being able to reform into a shield grants it an advantage in a firefight when lacking cover. The shield itself is in effect unbreakable, as it will reform if penetrated by an attack, although it is not invulnerable, and can be broken down with concentrated fire. The shield projected is large enough for the equipped drone to conceal itself, and if both arms are used, can extend into any projected shields adjacent to create a temporary shield wall. (10N 5M)
+
+Hypodermic: Small, slender and relatively frail blades designed to quickly puncture the target and inject a toxin, chemical, or biological substance, as well as extract blood or tissue samples. (2N)
+
+Sledghammer: A pair of large, blunt boxing glove-like chittinous fists mounted on the end of each arm. A set of large pistons run the length of both arms, and pull back prior to an attack. When the piston fires, a devastating short ranged shock wave erupts from the fist, causing solid objects to shatter and blasting any loose material backwards with great force. It's primary function it to breach doorways or demolish walls, but it can deal massive damage to soft and armored targets alike. (6N 10M)
+
+Thumper: This simple grenade launcher is designed to be mounted under a ranged weapon, and replaces a drone’s melee capabilities. It can launch a wide range of grenade types long distances. (5N 10M)
+
+Razor Mine: This adaptation is unique in that it is the only blade type that does not fit to the arms, and thus can be stacked with any other blade type. Fitted to either the back like a utility adaptation, or to an equipped tail like a blade, the Razor Mine fires a harpoon of chitin lined with a shaped explosive. Upon contact with an enemy, the barb will detonate and send spinning microscopic blades in all directions to deal massive amounts of damage to soft targets. The harpoon itself is armor piercing, but the blast cannot harm armored targets. A tail can hold 5 barbs bundled together, and can be fired at short range. A medium drone can hold 10 barbs on its back, and can fire them in an arc to deploy them at very short range to create an anti-personnel minefield. Large drones can carry 2x as much in both cases. A drone can be equipped with both a tail and back mounted Razor Mine, and it pays the upkeep for both as individual adaptations. Small drones cannot equipped this due to size limitations (7N 10M)
+
+-----
+
+Arm/graspers
+
+Dexterity: Small and nimble graspers capable of carrying both heavy loads and delicate treasures with equal skill. (1N)
+
+Strength: Powerful graspers suited for striking and wielding weapons. Each arm can hold 1 weapon graft. (1N)
+
+-----
+
+Legs/mobility
+
+Endurance: These legs are well balanced in all measures, and can hold up under the pressures of constant labor. (1N)
+
+Sprint: These legs are well suited to sudden calls to action, such as sprinting in and out of cover, leaping at a target, or evading enemy fire. They will tire quickly, but are sufficient for the ebb and flow nature of most battles. (1N)
+
+Bipedal: Made for form over function, these ornate, elegant legs can fold into each other to go from a standard quadrupedal stance to a bipedal stance. When on all fours they function in the same manner as endurance legs, although they are far fancier in appearance. The drone can then kick itself onto its hind legs, and using the flexible joints added between the thorax and abdomen, the drone can shift its weight vertically and attach the forelegs to the joints of the hind legs, standing nearly twice its normal height as a result. While upright, the drone is less stable and slower than normal, but its stature and stride are both elegant and formidable. (4N 2M)
+
+Large Bipedal legs: Using slight adjustments in internal design, these legs are capable of permitting a large sized drone to stand upright, fusing both of its hind legs into two powerful muscular limbs, granting it the ability to stand well above obstacles or enemy cover to grant it a much greater vantage point in combat, as well as freeing its two front legs, allowing it to equip additional weapons, allowing it to equip large sized blade and weapons on its newly opened arm slots. (4N 5M)
+
+Hover: These legs are weak and frail physically, but can fold in under the drone’s body to create a layer of magnetic plates, allowing the drone to hover over rough terrain or bodies of water unhindered. The hover plates allow rapid movement and exceptional maneuverability, ignoring terrain conditions. The pads cannot be used to climb vertical surfaces, and are vulnerable to attacks from bellow. (10N 15M)
+
+-----
+
+Auxiliary/Utility
+
+Wings: Powerful wings and airfoils capable of granting a drone the power of flight.
+Basic glider: Simple airfoil layers capable of gliding from place to place. Offers a cheap method of preventing deadly falls and maneuvering in rough terrain. (1N)
+Moderate flight: A set of airfoils combined with a set of powerful wings that force air along the airfoils to provide lift. Grants good control of speed and maneuverability but is limited in size and durability. (2N)
+Advanced air superiority: A powerful and intricate set of wings and intersecting airfoils designed to offer the maximum speed and maneuverability possible for a medium or small drone. (4N)
+Rotary: These wings spin on a pair of counter rotating rotaries and are too bulky to be mounted on a standard drone without causing dangerous instability in flight, but with aerodynamic drones it allows for improved thrust, allowing for double the carrying capacity when used with a Honey pot, although it sacrifices speed and maneuvering. Doubles the troop carrying capacity of any aerodynamic done equipped with a honeypot, increasing the honeypot's capacity to 20 medium drones during flight. (5N)
+Gravity Foils: These metallic wings are able to alter gravity fields directly around the drone, granting a silent, fast, and highly maneuverable method of flight. Large or heavy drones can make equal use of it, although they are slower and less maneuverable. (8N 10M)
+--
+Launcher pods: Made using muscles similar to those used to hold and move the wings, these pods are hollow tubes mounted to an articulate joint in the shoulders and can be retracted within a wing case when not in use. It is not itself a mechanical device, but a set of tubes to hold and deploy pre-made warheads, with a conductive diaphragm within to serve as a firing mechanism. A launcher holds limited ammunition, and must be replenished outside of combat with an applicable warhead type. A drone can be equipped with up to two pods, one on each shoulder. The cost of the launcher does not cover the cost of missiles, which are paid for upon firing. If added to a large drone, the missile capacity is doubled.
+
+Swarm missiles: A pair of small launcher tubes that can fire up to five short range low yield guided missiles from a single pod at a range of several hundred meters, and is effective primarily against infantry or lightly and unarmored targets. (10N 40M)
+
+Stinger missiles: A pod capable of firing up to three medium range guided missiles at once each capable of a range of several kilometers with the capacity to intercept low flying craft as an anti-air weapon, and is most effective against vehicles and armored targets. (20N 50M)
+
+Cruise missiles: A pod capable of firing a single long range high yield missile with a range of many kilometers and the ability to intercept and damage sub capitals flying at low altitudes, such as when landing or supporting ground troops. It is most effective against fortified installations, large aircraft, or infrastructure. This launcher is bulky and difficult to carry, dramatically reducing the speed of medium drones equipped with it. (40N 100M)
+--
+Self-destruction: Disposes of the drone’s body to prevent capture or research, but run a risk of killing the drone when severely damaged.
+Acid glands: Glands of acid burst open on death, rapidly disintegrating the body in a manner that does not cause harm to others.(1N)
+Explosive glands: Pressurized organs of highly volatile chemicals burst on death, splashing everyone and everything within melee range with caustic acid.(2N)
+--
+Honey Pot: A large expandable gland capable of storing various substances for transport or storage. Can carry resources, special ammunition, and even drones smaller than itself. A large drone can carry up to 20 medium drones on land, or 10 by air.(4N)
+--
+Chemical forge: A powerful auxiliary stomach that breaks down raw ore into a useable alloy. The auxiliary stomach is large and has a high capacity, granting Honey Pot for free. Can vomit the contents to spray an area with volatile chemicals to cause massive damage. Is under extreme pressure, granting Explosive glands for free. (12)
+--
+Filter lungs: A set of auxiliary lungs placed on either side of the abdomen that filters the air, making the drone immune to airborne toxins. The lungs can be used in closed environments to filter the air for other drones, or used as a form of haz-mat suit for single drones venturing in toxic areas. (4N)
+--
+Gills: These sensitive organs extract oxygen directly from water, permitting a drone to function under water as well as on land. (4N)
+--
+Radiator Tubes: A set of four thick tubes protruding from the back of the thorax that serve to radiate body heat from the drone by collecting blood and passing it through the lungs, then exhaling the heated air from the tubes. Increases efficiency in hot environments, and mitigates thermal damage. (4N)
+--
+Oxygen Recycler: A gland containing a culture of genetically altered microorganisms feeds on exhaled carbon dioxide and produces oxygen, permitting the drone to hold its breath for extended periods of time. (8N)
+--
+Quantum brain: This complex collection of entangled particles permits the drone to perform rapid, intuitive calculations without consciously processing a problem, granting the drone an intuition capable of performing uncanny predictions or seemingly lucky guesses using data that is not inherently quantifiable. (4N)
+--
+Seeker Pod: A large, porous sack that grows and maintains a small swarm of semi-autonomous seekers. Max seekers number is equal to total cost, and they can be loaded with any ammunition type available to weapon grafts. (10N)
+--
+Tail: A long, whip-like tail formed from the end of the abdomen that can be used as a third claw. It can equip a single blade or weapon of 1 size smaller than the drone, as well as function as a rudimentary grasper. The resulting consolidation of body organs in the drone’s thorax results in a more easily injured drone, but the increase in balance and added utility make for an excellent ambush weapon. A blade or weapon from the tool/weapon section can be grafted to the end of the tail at 1/2 the normal cost in exchange for a single blade.(6N)
+--
+Ovipositor: Superficially identical to a tail with a hypodermic blade, the ovipositor is heavily altered internally, dedicating the majority of the internal organs of the tail to hold a miniaturized and highly specialized small sized egg layer. The eggs it produces are further modified, possessing a highly adaptable and durable shell that secretes a healing salve designed to help secure it within the host and quickly heal the wound made in the target upon entry. With these alterations, the ovipositor is capable of quickly lashing out much like a tail using a built-in retractable stinger based largely on a modified hypodermic blade an implanting a specialized parasite or other small drone egg within the target. (8N)
+--
+Ramjet: This powerful and bulky organic engine offers massive forward thrust for airborne drones. Due to its size and weight, it is limited to Aerodynamic drones which are made to compensate for its inherent instability. (16N6M)
+--
+Regeneration Tank: These large, protein filled membranes are capable of stimulating cellular regeneration to heal wounds and scaring, as well as perform extensive surgical procedures with a greatly reduced risk of injury. The tank can be prepared in a moment’s notice to accommodate any creature with a biology you are knowledgeable of. The tank can also be used to store bodies for later study, and perform autopsies and dissections at a rapid pace with far more detailed results. (50N)
+--
+Egg Sac: A large sac capable of rapidly compiling new genes for various different drone classes as needed. It is capable of both producing new drones, designing new drones, and processing and storing a limited amount of food to sustain small hives. (100N)
+
+-----
+
+Carapace: The layer of hard shell and bone that both supports and protects all drones.
+
+Basic: Cheap, poorly developed carapace that offers flexibility and dexterity over protection. (Free, default carapace.)
+
+Combat: A thick and durable layer of protective chitin capable of deflecting attacks, and incorporates metal to further reinforce it. (3N10M)
+
+Heavy: A massive, super dense weave of chitin and overlapping metal plating that can withstand tremendous punishment. It is incredibly burdensome, required built in muscle grafts to allow medium drones to use, making them bulky and slow to move. (5N 20M)
+
+Reactive: A dense weave of muscular microfibers tense against incoming kinetic attacks, allowing for a mix of leeway and rigidness that mitigates blunt trauma. The microfibers are highly effective against melee or other kinetic damage, but are unusually vulnerable to energy damage, which disrupts the fiber weave. (4N 15M)
+
+Ballistic: A layer of interlocked fibers and netting offers protection from high speed shrapnel and shockwaves caused by standard explosives weapons, drastically improving protection against explosive damage and offering some limited protection from kinetic damage. (4N 15M)
+
+Conductive: An interlocked network of woven metal microfibers that direct electricity away from critical areas. It is lightweight and mitigates energy damage, but does nothing against physical or thermal damage. (4N 15M)
+
+Peacock: A vibrantly colored carapace that places style over function. Actual effectiveness at boosting diplomacy efforts is questionable, but it is indeed fabulous in appearance. (Free)
+
+Mimetic skin: A thin layer of crhomatophore cells develop along the surface of the carapace to create a thin membrane capable of shifting color at will. Because the membrane is grown over the carapace, it can be used in conjunction with any carapace type, although any damage sustained would rupture the membrane. (2N)
+
+Adaptive camouflage: This carapace foregoes defense to develop a dense weave of muscle fibers capable of replicating the texture of surrounding objects, such as a hive wall, stone, or the trunk of a tree. It offers no resistance to any damage type, but when used in conjunction with Mimetic skin a drone is capable of hiding in plain sight, disguised as any number of mundane objects, granting a massive bonus to any attempt at stealth against visual, sonar, or radar based detection methods. It is only effective when not moving, and cannot prevent detection via thermal imaging or other such methods. (8)
+
+Bio-electrical: A densely packed layer of muscular microfibers server as a powerful capacitor that is capable of storing a large amount of electrical energy. Energy can be built up over time passively, or charged from an outside source. When the drone makes physical contact with another creature, it can discharge the built up energy in a potentially lethal electric shock. The carapace offers no major defensive benefit, and is equal to the standard carapace in durability. (8N 15M)
+
+-----
+
+Chassis: The physical shape and structure of a drone. While most have the same six-limbed body structure, some drones are function-built for a specific purpose.
+
+Standard: Four legs, two arms, four eyes, a head, thorax and abdomen. This form is the standard and default for drones. (Free)
+
+Single purpose: This covers a number of forms that are built around a single or very narrow selection of adaptations such as a radar station, communication system, or air ventilation and filtration system. (Free)
+
+Aerodynamic: The chitin has been shaped to form large wings and a sleek profile. If it has legs or arms they are almost useless for anything but landing struts, and the body has been fused into a single fuselage. More a vehicle than a drone, drones with aerodynamic shapes require help from workers to move on the ground, and dedicated hangars to heal, feed, and rest. Their dedicated shape and purpose allows them to overcome the issue of mass with regards to powered flight, allowing for the use of heavy armor or large sizes. (4N10M)
+
+Hydrodynamic: With several areas softened to improve flexibility, and others altered to serve as water jets and fins, this body type allows for high speed maneuvering in a liquid environment. The legs are replaced with flipper-like fins capable of aiding in maneuvering or propulsion, and the body itself is elongated and made smoother to reduce drag. A tail adaptation can be added for additional performance, but is not needed. (2N5M)
+
+Vacuum sealed: A hull designed specifically for space travel. See Ship Hulls.
+
+-----
+
+Size: This determines the drone’s size, and by proxy its overall shape and appearance, which must change to compensate for its mass.
+
+Small: This covers any drone a meter or less in size down to a minimum of roughly four centimeters. They can equip no weapons or armor due to their small size, but are faster, more nimble, and have a natural bonus to stealth efforts over their larger brethren. The total cost of any small drone is .25 of listed price.
+
+Medium: This is the standard drone size, ranging on average between one to three and a half meters in size. The total cost is standard price for any medium drone.
+
+Large: This massive drone stands hunched over at roughly 10 meters in height and nearly 20 meters long, any larger and it would collapse under its own weight. To support its massive girth the large drone must use all six of its limbs as legs, and while it can dig by leaning into the wall or prop itself on its rear legs temporarily, it is not capable of dexterous manipulation and has no proper graspers. To overcome this limitation, the large drone has two graft hard points located away from the arms. The first is just under the mandibles. It holds a joint that can swivel 10 degrees in any direction but is otherwise aimed using the relatively dexterous neck, which can flex around or over obstacles. The other is on the top of the drone just in front of the abdomen, where the thorax ends, and is mounted on a flexible pair of joints that can pivot 90 degrees in any direction. The second hard point is located on the drone’s center of mass, and is capable of withstanding the most force, and thus the most powerful weapons. The first rests within the center of the drone’s line of sight, and thus can be aimed to a greater effect. In addition to the two large weapon hardpoints, the drone has 4 mediums sized hardpoints along its body equipped with nearsighted eyes capable of spotting and tracking enemy infantry near the drone. The total cost of a large drone is 2x normal price.

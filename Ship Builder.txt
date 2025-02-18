@@ -1,0 +1,240 @@
+Small craft - Small basic craft designed for short range travel, stealth, or other non combat duties.
+
+Shuttle
+Capacity: 50/5
+Cost: 50N 150M
+Size: 30 Meters
+A small craft designed to transport goods, drones, or anything else that needs to move from one location to another. They are typically used only for transport to and from orbit.
+ 
+Space Pod
+Capacity: 5/1
+Cost: 60N 50M
+Size: 10 Meters
+Similar to your own pod, the standard Space Pod is an organic lump of sensors and maneuvering thrusters equipped with basic radiation shielding and a Blink Drive.  They have very little room for cargo, and typically only carry a thinker and enough rations to last the duration of a mission. Due to the focus on small size and low energy signature, they are incapable of escaping a planet’s atmosphere, but can easily be towed by a shuttle.
+
+Strike craft - Small craft intended for combat within a single system. They are incapable of FTL travel and rely on a base or carrier ship to support and transport them.
+
+Gunship
+Crew capacity: 10/1
+Cost: 60N 250M
+Size: 30 Meters
+Fixed: 1
+Auxiliary: 2
+Based on the hull of the unarmed shuttle, this small gunship is designed to operate from a base hangar within a hive or ship, and sacrifices much of its storage capacity in exchange for a respectable armament of a single fixed mount, two small auxiliary turrets, and a compartmentalized special missile rack that offers limited space for ship grade missiles. The Gunship can equip a single missile pod at .25 its normal cost, but can only fire a single salvo before requiring resupply.
+
+Fighter
+Crew capacity: None
+Cost: 50N 50M
+Size: 10 Meters
+Fixed: 2
+To more effectively answer the threat of long range strike craft, this small hull was adapted by the musings of a quantum thinker from the standard hull of a Space Pod. It is almost identical in outward appearance, but its internal advanced sensors, navigation equipment, cargo and crew space, and its FTL capabilities have all been gutted to make room for a more powerful Skid drive, high performance ion thrusters, and space for two fixed weapon mounts. The fighter can be equipped with a wide range of offensive and defensive systems, but is limited in its size and requires a larger ship to carry it between systems.
+--
+Sub Capitals - These ships are smaller in size and offer a wide range of tactical and strategic versatility. They are capable of entering and leaving the atmosphere of most planets under their own power
+
+Corvette
+Capacity: 200/20
+Cost: 400N 800M
+Size: 100 Meters
+Spinal Mounts: 1
+Turret: 2
+Fixed: 2
+Auxiliary: 8
+The Corvette is a small, general purpose vessel that often accompanies larger ships. It tends to excel at point defense and its small size makes them highly maneuverable and versatile. Due to its low power output the corvette has a low heat signature and no need for heat vents, making it slightly more difficult to detect in open space and letting it remain cloaked for much longer periods of time compared to other ships.
+ 
+Frigate
+Capacity: 150/15
+Cost: 800N 1600M
+Size: 150 Meters
+Spinal Mounts: 1
+Turret: 6
+Fixed: 8
+Auxiliary: 4
+The Frigate is a general purpose warship capable of holding its own in most combat situations. It is fast and maneuverable while capable of a decent amount of firepower, making it excellent at both assault and patrol duties.
+ 
+Cruiser
+Capacity: 300/30
+Cost: 1200N 2000M
+Size: 200 Meters
+Spinal Mounts: 2
+Turret: 6
+Fixed: 10
+Auxiliary: 0
+The Cruiser is the heavy hitter of the sub capital ship types with its two spinal mounts and powerful weapons. A Cruiser tends to be at the core of most fleets, with its main guns being an indispensable offensive asset, but its lack of smaller weaponry makes it vulnerable to smaller craft. It is equipped with a thick layer of webbing between its radiators to increase its cooling capabilities to offset its larger weapons, but this makes the cruiser easy to spot in open space.
+--
+Capitals - Massive ship of tremendous size and power, capital ships are the core of any major fleet. Costly to build and maintain, these ships serve as both a tool to project the power of the hive, and as a reminder of the hive's strength to those who see them.
+
+Battlecruiser
+Crew capacity: 400/40
+Cost: 2000N 2500M
+Size: 300
+Spinal Mounts: 4
+Turrets: 8
+Fixed: 16
+Auxiliary: 10
+The Battlecruiser is the smallest of the capital ships, and balances the raw power of a battleship with the relative speed of its cousin the cruiser. While large and powerful, they are relatively frail and as such typically require an escort. They rely on being placed in the right position at the right time, and in such situations they can take the enemy by surprise to devastating effect. They are the fastest and most maneuverable of the Capital ships, making them rather effective at placing themselves in advantageous positions and taking advantage of brief vulnerabilities. Their relatively frail hull and heavy weapon load out makes them naturally predisposed to harrying or raiding as opposed to serving as a front line slugger, although in a larger fleet they can provide excellent fire support with their four devastating spinal mounts.
+
+Battleship
+Crew: 2000/200
+Cost: 4500N 10000M
+Size: 2060 Meters
+Spinal Mounts: 5
+Turrets: 12
+Fixed: 18
+Auxiliary: 22
+The Battleship is a massive hulk of weapons and armor, designed to slam into the enemy position and keep hammering away until nothing is left; a simple and often costly strategy. They are incredibly slow, as far as space craft go, and once they get moving few things are capable of stopping them. The massive amount of heat and energy they produce in their operation makes concealing a battleship a pipedream. Few things will set off more warnings and proximity scanners than a battleship entering a system, which could be seen as a flaw or a feature, depending on your point of view.
+
+Hive Ship
+Crew 5000/500
+Cost 8000N 150000M
+Size 6200 Meters
+Spinal Mounts: 2
+Turrets: 12
+Fixed: 18
+Auxiliary: 20
+Less a ship and more a mobile colony, the Hive ship is true to its name, offering a wide array of utility, manufacturing, and logistical capabilities in addition to its tremendous firepower. Its seemingly endless halls have room for nearly any conceivable upgrade, from metal processing to resource extraction to hangar bays and anything in between. The Hive ship comes equipped with four docking pylons mounted to the top of the hull, as well as a built-in egg layer, hatchery, and microfactory. The Hive ship has only two spinal mounts, but they are each far larger and far more powerful than the main gun of any other ship class. Despite its impressive array of weapons and vast size, it is agonizingly slow to maneuver, meaning it often requires an escort to defend against smaller and faster craft. The great value and logistical importance of the Hive ship means it is often at the core of the hive fleet, sometimes even serving as the queen’s personal flag ship. The presence of a Hive ship in a system is as much a political statement as it is a military one, showing the interest the queen has taken in the region.
+
+-----
+
+After selecting a base hull, a ship can be equipped with a number of offensive, defensive, and utility systems. Some hulls are specialized, or are limited by size. What little space is within a pod, for example, is dedicated to rapid movement, but it lacks the raw power needed for atmospheric flight, while the shuttle is dedicated solely to moving drones and goods in and out of orbit, and their alternative combat versions replace these utility capabilities for weapon and ammunition space. All other ship hulls are equipped with a Blink drive, a Skid drive, and the navigational sensors to use them for free.
+
+-----
+
+Weapon classes
+Weapons are divided into several classifications based on their mountings, which change their behavior and overall performance. Some weapons can only be equipped on a spinal mount, while others can are limited in their function to the scale a spinal mount provides.
+
+Turrets – Large turreted mounts capable of firing in any direction. They are slow to turn, however, and often serve as a ship’s primary weapon. They offer a good balance of accuracy and power and are most effective in medium ranged combat against similar sized ships. (25M per mount)
+
+Fixed – Fixed guns are forward facing weapon mounts capable of gimbaling in a limited angle. They do more damage than turrets but are more difficult to aim with because of their poor coverage. Good for strafing attack runs against larger and slower craft. (20M per mount)
+
+Auxiliary – Small turrets placed along the hull capable of quickly facing any target but lack the damage to effectively harm large targets. They are used primarily as point defense as they are capable of tracking fast, small targets with relative ease. (10M per mount)
+
+Spinal mount – The spinal mount is a port for a weapon grafted to the skeletal structure of the ship and runs along the length of the hull. The longer the ship’s hull, the more powerful the weapon, but the spinal mount cannot be aimed without turning the ship, making them inaccurate against mobile targets. They are the most powerful weapons available to a ship, and make for excellent siege or bombardment weapons. (10M per 10 meters per mount)
+--
+Weapon types
+Different kinds of weapons function in a variety of ways. Directed energy weapons can impact the target close to the same moment they are detected, but will slowly dilute into a harmless EM signal, reducing damage to targets outside their range. Kinetic weapons give the target time to evade before they impact, but will continue forever until something stops them, increasing the difficulty to hit targets outside their range. Long range is typically considered to be roughly 10 light seconds, or just less than 2 million kilometers, while medium range could be considered close to 5 light seconds, while short range would be less than 1 light second.
+
+Consumption beam – A mixture of highly focused infrared radiation and powerful magnetic fields spun into a spiral around the laser. The consumption beam slowly melts the target, usually an asteroid, while drawing in the molten material for transport or processing. The beam can be used without the melting laser to draw in more delicate materials such as gas or biological matter. Due to its unique nature, the Consumption beam can only be equipped to spinal mounts. This is free to any ship not equipped with a spinal mount.
+
+Linear Particle Beam – The more simple and brutish cousin of the cyclotron, the linear accelerator fires a continuous stream of subatomic particles at near-light speed. They require far more space than their more compact cousins, but offer much greater power to compensate. The longer the barrel of the particle beam, the more powerful it is, making it an excellent spinal mount weapon.
+Dmg: High Energy/Thermal
+RoF: High
+Rng: Medium
+Acc: Medium
+Special: Ranged annealing – After a successful hit the target’s armor, if it has any, rapidly becomes super-heated and super-cooled, decreasing the effectiveness of the armor and causing the target to become more vulnerable to kinetic damage. Once the target’s armor has been burned away and breached the effect ends.
+
+Cyclotron Particle Beam – A ring of particle accelerators rapidly spin a bolt of subatomic particles close to the speed of light. A short period of time is needed to accelerate the next bolt after each shot, severely limiting the rate of fire.
+Dmg: High Energy
+RoF: Medium
+Rng: Medium
+Acc: High
+Special:  Rapid Pulse – This weapon directly interferes with electronic transmission, making it more difficult for the target to maintain a target lock, and decreasing the target’s accuracy temporarily.
+
+Railgun – The railgun fires a single metallic slug at high velocity. Like the linear particle beam the railgun’s damage scales directly with the length of the weapon, making it a powerful spinal mount weapon. Like all kinetic weapons, the railgun can carry a payload of specialized ammo to deal different kinds of damage.
+Dmg: Very high Kinetic
+RoF: Low
+Rng: Medium
+Acc: Medium
+Special: Kinetic bleed (spinal mount only)– On a hit against a ship of equal size or less, if the target survives the attack it is violently knocked off its course, tossing the crew from their stations and causing extensive injuries. The target requires time to recover from its wild spin, during which time it is more vulnerable to attack and cannot take any action.
+
+Auto Cannon – A series of weaker rails attached together to increase rate of fire. Each shot deals far less damage than the rail cannon, but the sheer number of projectiles fired can overwhelm the target’s defenses with a thousand glancing blows and minor hits. It is capable of loading special ammo to augment its damage and performance, making it an excellent at rapidly deploying specialized munitions for support.
+Dmg: Medium Kinetic
+RoF: High
+Rng: Short
+Acc: Low
+Special: Metal Hail – When using this weapon your ship receives an accuracy bonus against targets smaller than itself.
+
+Plasma Lance – A twisting vortex of magnetic fields guide a powerful plume of superheated plasma towards the target, dealing massive damage and cooking the ship’s interior. Due to the nature of the weapon, the plasma dissipates rapidly, making it only viable at very close range, such as during boarding actions.
+Dmg: Very high Thermal
+RoF: High
+Rng: short
+Acc: Low
+Special: Slow Roast – This weapon bypasses the target’s armor and shields entirely, cooking the crew alive and melting critical ship functions.
+
+Ion cannon – This focused energy weapon is in essence a combination of CIP technology, a plasma lance, and a particle beam rolled into one device. It utilizes powerful magnetic fields to funnel a stream of high energy particles at a target to cause the effect of a highly focused EMP on enemy electronics and sensors, wreaking havoc on the target’s sensors and other systems. While shields and conductive armor are highly resistant to it, the Ion cannon can pass through other forms of armor undeterred.
+Dmg: Low energy
+RoF: Low
+Rng: Short
+Acc: High
+Special: Blackout – If the target is not shielded, all sensors are blinded for a short duration, and there is a large chance of a random system being permanently disabled. If a ship’s drive and weapons are disabled, it is considered a derelict.
+
+Blaster - A well balanced energy weapon that deals damage through the force of the rapid decay of photonic particles against the target. The weapon is very well balanced, making it a suitable choice for nearly any weapon mount, and due to the nature of the weapon it does benefit, if only slightly, from a spinal mount. It is a decent weapon in all areas, but lacks any major area of expertise, making it best suited for use in cheap, disposable support craft and picket forces, or as a mortar to fill in any cracks within a fleet's composition.
+Dmg: Medium Energy/Thermal
+RoF: Medium
+Rng: Medium
+Acc: Medium
+Special: Focus Fire - When attacking a ship with a blaster, there is a very small chance of overloading the shield projectors. The chance stacks with more blasters. Against unsheilded targets, the target's armor is super heated and made less effective, reducing its armor for as long as the blasters maintain fire. If the blasters stop firing the armor cools and returns to its normal effectiveness.
+
+Singularity Projector – A network of gravetic projectors spread across the ship’s weapon ports allow the creation of artificial singularities a short distance from the ship’s hull. Accuracy and range are limited, however even a glancing blow can sheer the hull from a passing ship in an instant, swallow incoming warheads whole, or spaghettify attacking strike craft before there is any chance of evasion. With luck and proper forewarning, but mostly luck, even energy weapons can be negated, or at least redirected as it loops around the event horizon. The range makes this a purely defensive weapon, and its devastation makes it an equally excellent deterrent, as few pilots are willing to knowingly leap into the gaping maw of oblivion itself. A ship can have multiple singularities projected at once; however they are limited in the amount of time each singularity can exist, and at the rate at which they can be created.
+Dmg: N/A (damage not quantifiable by known physics)
+RoF: Medium
+Rng: Very Short
+Acc: Medium
+Special: Cannot be equipped to ships smaller than the Battleship hull. The projectors replace the weapons according to the slot in which it is placed. The number of weapons replaced as a result increases the number and accuracy of the projected singularities, while the size of the replaced weapon mounts determines the length of time each exists and its potency. A number of anti-kilos of canderon equal to the metal cost of the weapon mount is required.
+
+-----
+
+Armor
+A ship can equip up to two types of armor systems which are layered over each other for maximum effect. Each kind is designed to be effective against a certain kind of damage. Equipping armors that defend against the same kind of damage will stack with diminishing returns.
+
+Standard – The armored hide of the ship hardens with a mixture of metal alloy to create a dense carapace to protect against a variety of damage. While not the most powerful, it protects against most forms of damage equally and offers reasonable protection from damage without hampering maneuvering. (Free)
+
+Combat – Additional armor plates and metal weave assembled into easily replaced and repaired segments offers greater protection than standard hull plating while maintaining a lower cost than heavy armor. It protects against all damage types equally, offering a middle ground between maneuverability and protection. (15N 60M per 10 meters)
+
+Heavy – Super dense plating layered overtop each other creates a thick matrix of overlapping metallic hide and bone, offering superior defense against a variety of damage at the expense of maneuverability. The added mass causes maneuvering to be sluggish, making the ship easier to hit, but mitigating or outright deflecting all but the most relentless of attacks. (25N 100M per 10 meters)
+
+Reflex – A netting of interwoven tendons and muscle tissue that tenses when impacted. The muscle quickly forms a hardened shell to mitigate kinetic damage but is vulnerable to energy damage such as particle beams or directed plasma. (50N per 10 meters)
+
+Conductive – A network of reflective and conductive plates attached to a series of superconducting struts redirect directed energy away from the impact site and quickly dissipates it throughout the ship. Excess energy is quickly converted into thermal energy to be radiated safely. Excellent defense against directed energy weapons such as particle beams and plasma, but lacks any sufficient method of dealing with high velocity kinetic impacts. (15N 50M per 10 meters)
+
+Ballistic - A network of hollow compartments designed to muffle impacts and layers of detachable chitinous strips linked to complex sensor systems allow the ship to launch parts of its armor at incoming objects to cause missiles to detonate prematurely and absorb the blast. While it is designed to be most effective at stopping missile strikes, it is also decently effective against kinetic damage. (50N 25M per 10 meters)
+
+-----
+
+Power
+Reactors, capacitors, and power conduits spread across the ship provide needed power by burning nutrients and other sources of fuel. All ships are equipped with the nutrient vats and digestive tanks needed to feed on nutrients in order to maintain organic components while electrical demands are met through other means.
+
+Micro fusion – A network of isolated and redundant micro fusion reactors that offer safe and reliable power to ship systems while reducing the likelihood of critical damage. The system is highly efficient, burning a negligible amount of fuel. (Free)
+
+Fusion Core – The micro fusion reactors of the ship are concentrated into a single, massive reactor core to increase power output from a micro fusion power system. The fusion core is far more potent, but also more volatile. The increase in power boosts the effectiveness of all power using devices, increasing the damage output and maneuverability of the ship in question. Due to its volatile nature, the core can detonate if damaged directly, and can be forced to overload intentionally to self-destruct the ship and resulting in a nuclear detonation. Boosts damage of all weapon mounts and increases acceleration of the ship, but makes it vulnerable to critical damage. The core is relatively inefficient and uses fuel at an increased rate. Cannot be equipped to small sized hulls or strike craft. (10N 50M per used weapon mount.)
+
+-----
+Utility
+Most ships have room for all manner of devices and additional systems to increase their utility both in and out of combat.
+
+Defensive Shields – After comparing the two technologies, you are surprised to find that shields and cloaking fields are actually remarkably similar in nature, despite being drastically different in function. The shields use a network of energy projectors to weave a field of distorted particles around the ship, dissipating incoming damage across its surface evenly to block virtually all damage of incoming attacks. It is this absolute effectiveness that is, ironically, the shield’s greatest weakness. As it absorbs incoming damage, the emitters overheat or become stressed, eventually risking becoming damaged and failing. Thermal damage will pass through the shields and quickly overheat the ship, while kinetic damage can jostle the emitters out of position, however any external damage will be nullified. Because of this semi-disposable nature, your thinkers have designed a shield array that is capable of self-repair, requiring only an extended period of rest, or a visit to a pylon to bring back online. The placement requirements of the emitters are highly similar to that of the cloaking field, meaning that only a shield or cloak can be equipped to a ship, not both. (5N 15M per 10 meters)
+
+Multi-layer shields – By shrinking the emitters on a ship’s hull and altering the shape of the energy fields, a ship can replace its singular defensive shield with many overlapping layers of redundant shielding. With this new design, each shield layer only covers a small portion of the ship, and is itself far more likely to fail, however unlike with the standard defensive shielding failure results in the next layer of shields becoming exposed, not the failure of the entire shield. The multi-layer shield still suffers the same weaknesses of the standard shields, but it mitigates the absorbed damage across multiple, weaker layers, creating an ablative effect to greatly increase overall protection at the cost of increased resource requirements. (10N 30M per 10 meters)
+Cloaking Field – This complex device bends light slightly around the ship to create a lensing effect that renders the ship nearly invisible, while heat sinks prevent excess radiation from escaping. The ship can function for a short time in this state before it must either vent heat or take damage. Smaller ships can function for longer periods of time while cloaked due to them producing less heat. While cloaked the ship cannot perform any action other than move within the system, and being hit by an object or weapon attack will end the effect. Dense atmospheres or nebulae reduce the effectiveness of the field. (5N 15M per 10 meters)
+
+Rapid Damage Control - Using what you learned from the colony liquid you have developed a thick compound that is pumped through the capillaries of your ships. When severe damage is sustained the capillaries burst and the substance quickly expands and hardens into a makeshift hull, allowing your ships to survive much larger amounts of damage and healing to a small extent while still in combat. The effect is limited, however, and is only intended to keep the ship in fighting shape until it can repair. (15N 20M per 100 meters)
+
+Containment fields – Using a network of hardlight projectors spread throughout the ship in strategic points, the ship is capable of isolating any given location nearly instantly in the event of damage or attack, quickly sealed depressurized hull sections, choking out fires, isolating explosions, and even impeding the movement of intruders. The ship gains the potential to survive otherwise catastrophic damage over a very short period, in some cases staving off the inevitable just long enough to return fire, or in less extreme cases reach a port for repairs. The ship temporarily ignores damage that would otherwise destroy it. The amount of time the ship can continue to function is based on the size of the ship, and the amount of damage sustained past its point of typical destruction. In addition, boarding actions performed against this ship (20N 40M per 100 meters)
+--
+Atomic Self Destruct – In situations where a reactor core is either too expensive or too large, a more simplified atomic warhead can instead be loaded into the ship, allowing it to detonate to prevent capture or deny salvage to enemy forces, as well as deal damage to nearby ships, however the device is sensitive to damage, and has a chance of premature detonation if damaged directly. It is comparable in yield to an atomic Cruise missile warhead, and like a warhead, the cost is paid upon detonation and does not have a direct upkeep cost. (200N 200M)
+
+Microfactory - A small assembly line capable of rapidly growing and assembling strike craft more complex then the simple Swarm fighter, allowing a ship to replenish its supply of pods, shuttles, fighters, or gunships without returning to hive space. If the ship looses its compliment of strike craft, it will automatically build new ones to fill its hangar space. If the ship is assigned to a fleet it will automatically replenish any hangar equipped ships in the fleet. (100N 300M)
+
+Spinal Hangar – Replaces a single spinal mount of a ship with a series of hangars arranged around a central launch tube capable of firing shuttles or fighters into space at high velocity. The nature of the hangar and its placement allows for a more efficient design at the cost of the ship’s primary weapon system. The hangars themselves are arranged in a pattern of five wrapped around the launch tube with a hangar door running down the bottom hull of the ship to allow docking, granting 1 docking bay and 4 swarm hangars per 50 meters of hull size, or 5 docking bays per 50 meters. If the ship hull type has more than 1 spinal mount, this will replace 1 per purchase. (1800N 900M per 50 meters)
+--
+Modules
+Modules are compartments built within the outer hull designed to maximize the space of the ship. Modules include hangars for shuttles or fighters, or missile launchers of various types. The total number of modules a ship can have is equal to 1 per 50 meters in size.
+
+Bulkhead – Many ships poses space to hold a number of useful sub-systems, weapon systems, and other modules, however these are often too expensive to maintain on every ship in the hive. By filling these unused spaces with interconnected nets of metal plating, a ship can be made far more durable to damage without additional upkeep. The bulkheads are incredibly heavy, and will greatly decrease the acceleration of a ship. Increases the amount of damage a ship can take. If all module slots are used, the ship is immune to critical hits. (500M)
+
+Solar Collector - This module allows a ship to serve as a mobile solar collector, gathering energy from a star to be converted to nutrients by way of photosynthesis. Each module unfurls into a multi-kilometer long, slender sail trailing from the hull of the ship, hindering movement and making the ship unable to blink, shield, or cloak. Once the ship has deployed its solar array each collector has a nutrient income of 400N per day. (1,000M)
+
+G-field sensors - These powerful and intricate sensors measure the strength of gravitational fields of its surroundings and compare them to other multi-frequency sensor data to detect and locate unusual discrepancies in nearby space, effectively defeating the cloaking field. Unlike most other sensors G-field sensors do not suffer a delay at long ranges, as gravitational fields are not limited to light speed. (150N 200M)
+
+Artificial gravity plating - A network of conduits and specialized semi-metallic plates laced with infinitesimal amounts of exotic matter gathered through passively through space travel are spread across the internal structure of a ship. When power is sent through the specialized plates they bend gravity locally to attract matter along its plane. The effect is a very light artificial gravity at low cost. The plates are incapable of creating a gravity field strong enough to directly cause harm, but can be altered or turned off at will. (1M per meter length of the ship)
+
+Swarm hangar (50 fighters) – A hangar filled to the brim with dormant drones, which are awoken and released when needed for combat. They are linked directly to the parent ship, and cannot function away from it. The fighter drones themselves are each a cheap and disposable craft designed to pose a threat with sheer numbers, and can each be equipped with a single weapon. Together, they can form complex maneuvers to intercept attacks with themselves, attack hostile targets, ram into targets and perform patrols in close proximity to the ship. When not in use they are kept in hibernation, reducing their cost to a bare minimum. Cost represents the cost of a single hangar bay and its associated swarm. (600N 300M)
+ 
+Docking bay (room for 1 shuttle and 3 fighters, shuttle and fighters not included) - A hangar designed to hold and service shuttles and other small craft such as fighters and space pods within the safety of the ship's hull. Without a hangar a shuttle can dock with a ship using an external umbilical, but both ships must remain stationary relative to each other while docked. The shuttle is granted space for the loading and unloading of cargo and drones, while the fighters are secured together and held by a set of armatures to save space. (100N 50M)
+
+Drop pod launcher - A compact launch bay that manufactures and launches cheap, disposable heat shields capable of dropping a drone safely from orbit. Each drop bay contains 50 medium sized launch tubes, and 25 large, but is capable of making and storing enough pods to launch any number up to the maximum the ship hull can hold. Every medium pod costs 10M to deploy, while large cost 20M. A drop pod launcher can also be used to deploy Spore pods at an additional cost of 100N per pod. The Spore pods are large in size (50N 100M)
+ 
+Swarm launcher – This missile rack is fitted to store and launch short range, low yield swarm missiles suited for anti-strike craft duties or for overwhelming enemy point defense. It includes 10 launch tubes, and space to store up to a maximum of 50 missiles of a single warhead type at once, allowing the rapid launch of up to 5 full salvos in quick succession. (400N 200M)
+
+Stinger launcher – This missile rack is fitted to store and launch medium ranged anti-ship stinger missiles well suited for skirmishes against sub capital vessels. It includes 5 launch tubes and room for a maximum of 20 missiles of a single warhead type, allowing for the firing of up to 4 full salvos. (500N 300M)
+
+Cruise launcher – This large launch bay is fitted to store and launch massive long range interplanetary anti-ship missiles best suited for dealing massive damage to capital ships. It includes 1 launch tube and room for a maximum of 5 missiles. (600N 400M)

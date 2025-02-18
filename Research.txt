@@ -1,0 +1,59 @@
+Current Research
+
+>Psionic sensors
+Slow
+This is a strange project indeed, and a concept that should not work at first assumption. It utilizes a basic concept of quantum mechanics, that being that the future of a particle effects it present state, and applies it to a mass scale. The hypothesis is a sensor that does not sense a target, but predicts it. The project is still in its infancy, however, and there is hardly any work finished beyond some basic mathematics and theories. As your thinkers attempt to put these theories into practice, however, the first prototypes seems to indicate that said prototypes never existed, causing a bout of confusion among the hive with how to proceed. The project has since gotten back on track, and shows great promise.
+
+>Tachyonic insulators
+Medium
+You did not find any thinker alive that was working on this strange project, with all of them nearby fossilized long ago. You did, however, find a small sample of prototype material which seems to absorb tachyonic particles and then disperse them in random directions, scrambling psionic signals and making them appear as universal background noise. The efficiency with which this material does this has proven to make researching it rather difficult, as your drones nearly lost the sample for several days until an enterprising Quantum Thinker had a worker team scour the hive for the elusive substance. The testing has resumed, and is running ahead of schedule after the short delay.
+
+>Advanced Psionic Imprinting
+Slow
+With the application of psionic imprinting you are able to influence and alter the state of matter using only focused and precise mental signals. Your thinkers believe this can be taken further, using more accurate signals and more precise manipulation methods to imprint more complex thoughts and ideas more quickly and easily, and at a greater range.
+
+>Psionic Cloaking
+Medium
+A complex practice naturally accomplished by the Phantoms under the care of the Barren Queen, you have been instructed in the basics, and now all that is left is practice and application. In theory it is simple, using carefully woven mental signals to broadcast a sense of non-existence. While this process is most effective against being sensitive to tachyonic radiation, it can be used against virtually any organic being. A psionic race may find entire patches of planet voided from their minds like a mass-induced psychosis, while less attuned or mentally blind species find details of the cloaked unit impossible to remember or describe, or may simply not notice the unit unless it is alone and obvious in appearance. Simply turning around or standing among a small crowd is enough to become virtually invisible. Unfortunately, this invisibility comes at a cost, as it is omni-directional, and any unit enveloped in such a shroud would be unable to mentally communicate with others, effectively cutting itself off from any hive network. This ability requires at least a moderate relay or implant to accomplish, although no drone would do so willingly and cut itself off from the Queen without a direct command to do so.
+
+>Psionic Telekinesis
+Very Slow
+With the development of psionic imprinting it is now clear to the hive that tachyons can effect real matter in a very real way. While normally so minuscule in nature the forces of tachyonic radiation offers no force whatsoever, a focused, maintained wave of psionics could, in theory, impart a real and measurable physical force. The success of Psionic Imprinting seems to offer prove of the concept in theory, and the only limiting factor now is how efficiently the imparted force from tachyonic particles scales up from the molecular level.
+
+>Photonic armor
+Medium
+While it is not nearly as robust as what your thinkers promise from the miniaturization of shield technology, these small plates of massive photons are solid enough to deflect weapons fire and absorb energy for a brief period of time. Less a portable defensive shield and more of a temporary deployable cover, this technology, in theory, would offer drones or agents a way to quickly protect themselves during a momentary lack of cover before the photons dissipate.
+
+>Personal shielding
+Slow
+By further shrinking the emitters, your thinkers believe they may be able to eventually make them small enough to be equipped to the carapace of a drone, or to the surface of an armored suit. At this time it is mostly speculation and an eagerness to please mother beyond all reason, and you cannot be sure what the limitations may be, but the thinkers are sure they can do it.
+
+>Shield dome
+Slow
+The opposite way of thinking as personal shielding, by scaling the shield emitters up further to a size that would be impossible to hold and power on a ship, your thinkers suspect they should be able to construct a defensive perimeter around a hive center protected by a powerful defensive shield. The thinkers that have proposed the idea seem to be certain in the failure of the other project, as they are of this one, and you have had to separate the quantum thinkers as they attempted to disprove each others’ theories more than develop their own.
+
+>Advanced Psionic Reading
+Slow
+With your new abilities growing, you continue to hone and develop more advanced methods of using your psionic network. Your thinkers believe that with more practice they should be able to delve deeper into the minds of non-hive life, digging past surface thoughts and emotions and into more detailed pieces of information without resorting to invasive neural interfaces.
+
+>Atmospheric static generator
+Medium
+By utilizing the natural friction of a sufficiently dense atmosphere against the surface of a capillary tower, the tower can be made to generate energy to feed itself and reduce its upkeep cost.
+
+>Rip Drive
+Medium
+A powerful, and accurate drive system, it does not move the equipped ship, but allows the ship to rip open a hole in spacetime, creating something akin to an artificial wormhole that bridges the ship's current location with a location of its choosing within its range. This allows not only the ship to move through the rupture, but also allows it to open ruptures for other craft, allowing for the deployment of sub-light craft over vast interstellar distances.
+
+>Deep Core Mining
+Slow
+Taking planetary mining to the logical extreme, your thinkers believe that your hive infrastructure, if spread across the surface of a world and given enough time, would be able to consume the ferrous metal core of a planet itself.
+
+>Gravity thrusters
+Slow
+Similar in function to your Skid drive, the Gravity thrusters essentially surf along pre-existing gravity fields, increasing their performance when in close proximity to major sources of gravitational pull, be it a large celestial body, a star, a planet, an exceptionally large structure or group of structures, or the core of a gravity drive. While in deep space it becomes less effective, the law of universal gravitation means it never becomes totally useless, and when in close proximity to a powerful gravity source it should outperform most other thruster designs with ease.
+
+ Available research options
+
+>Psionic Cannon prototype
+Very slow/Very dangerous
+Detailed accounts of several experiments show the slow progress of Project Godsplitter. The cannon itself is highly volatile, and even the smallest miscalculation often results in the destruction of the ship, as well as any nearby craft. It can only be equipped to a Hive ship's spinal mount, and requires a functional Void Shard as ammunition. At least a dozen testing sizes were atomized in testing the weapon, and in the end it appears The Gardener never quite perfected it.
